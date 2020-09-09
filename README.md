@@ -12,8 +12,6 @@ A web application for a fast-food company we developed during our "Web Applicati
 - LINQ
 - Razor
 
-[Back To The Top](#Table-of-Contents)
-
 ---
 
 ## How To Use
